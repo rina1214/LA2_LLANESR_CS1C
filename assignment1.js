@@ -42,7 +42,7 @@ let my_cmate2DreamJob = 'Software Engineer';
 
 
 
-// Converts my Second  Classaate information to Upper Case and Lower Case
+// Converts my Second  Classmate information to Upper Case and Lower Case
 let my_cmate2_uppercase = my_cmate2Name.toUpperCase();
 let my_cmate2_lowercase = my_cmate2Name.toLowerCase();
 let my_cmate2birthplace_uppercase = my_cmate2Birthplace.toUpperCase();
